@@ -1,0 +1,66 @@
+body {
+    background-color: #e9ecef;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.donation-wrapper {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+    padding: 30px;
+    max-width: 450px;
+    text-align: center;
+}
+
+.donation-header {
+    color: #ff5c20;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.donation-description {
+    color: #444;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.crew-name {
+    font-weight: bold;
+}
+
+.mission-statement {
+    color: #444;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.bitcoin-info {
+    background-color: #f0f8ff;
+    border: 1px solid #007acc;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 18px;
+    color: #007acc;
+    word-break: break-all;
+    margin: 15px 0;
+}
+
+.contribution-message {
+    font-size: 18px;
+    color: #444;
+}
+
+.coffee-image {
+    width: 90px;
+    margin: 20px auto;
+}
+
+.closing-statement {
+    font-size: 16px;
+    color: #555;
+}
